@@ -40,5 +40,5 @@ Frontend Development Learner & Enthusiast
 [Click here to see Live](https://bharti-johari.github.io/TASK-2-WEB-DEVELOPMENT/)
 
 ## 🖼️ Screenshot
-![Task 2 Preview](./screenshot.png)
+![Task 2 Preview](./task-2preview.png)
 
