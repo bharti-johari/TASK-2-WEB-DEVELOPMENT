@@ -21,7 +21,7 @@ It showcases my ability to build an interactive, responsive **Dynamic To-Do List
 - JavaScript
 
 ## 📂 File Structure
-- `index2.html` — Main HTML page
+- `index.html` — Main HTML page
 - `style2.css` — CSS styles for layout and design
 - `README.md` — Project documentation
 
