@@ -35,3 +35,10 @@ It showcases my ability to build an interactive, responsive **Dynamic To-Do List
 Intern @ Apex Planet Pvt.Ltd.  
 BTech CSE (AI & ML) | Sanskriti University  
 Frontend Development Learner & Enthusiast  
+
+## 🌐 Live Demo
+[Click here to see Live](https://bharti-johari.github.io/TASK-2-WEB-DEVELOPMENT/)
+
+## 🖼️ Screenshot
+![Task 2 Preview](./screenshot.png)
+
